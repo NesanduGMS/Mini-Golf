@@ -22,8 +22,8 @@ const CourseList = () => {
         {/* Left: Course List */}
         <div className="w-2/3">
           <div className="mb-8">
-            <h1 className="text-2xl font-bold text-black">Adelaide</h1>
-            <p className="text-gray-600">South Australia</p>
+            <h1 className="text-2xl font-bold text-black">Perth</h1>
+            <p className="text-gray-600">Western Australia</p>
           </div>
 
           {courses.map((course, index) => (
